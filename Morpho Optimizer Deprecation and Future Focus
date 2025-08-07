@@ -1,0 +1,4 @@
+In July 2025, Morpho Labs announced the deprecation of front-end support for all Morpho Optimizer products by September 7, 2025, providing migration tools to ease the transition. This strategic shift allows the team to focus on enhancing Morpho Blue and MetaMorpho, prioritizing core lending and borrowing infrastructure. The Morpho Interface, available at app.morpho.org, serves as a neutral, auditable, and non-profit explorer for the protocol, showcasing ecosystem projects tailored to diverse user needs.
+
+Recent governance proposals, such as MIP 111, have transitioned Morpho token rewards distribution to the Merkl stack, improving scalability across chains and streamlining user rewards. Another proposal, MIP 110, authorized a $78,000 grant in MORPHO tokens to Aragon for developing a trustless guardian governance module for Morpho V2 vaults, further enhancing the protocol’s decentralization.
+
