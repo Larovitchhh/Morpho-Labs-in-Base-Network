@@ -1,0 +1,16 @@
+Peer-to-Peer Lending Efficiency: Unlike traditional DeFi lending protocols that rely on pool-to-peer models, Morpho introduces a hybrid approach that facilitates direct P2P matching between lenders and borrowers. This results in a unique P2P APY (Annual Percentage Yield), which sits between the supply and borrow APYs of underlying liquidity pools, offering better rates for both parties. When P2P matching isn’t possible, users seamlessly fall back to the underlying pool’s rates, ensuring liquidity and flexibility.
+
+Permissionless and Non-Custodial: Morpho is fully permissionless, meaning anyone can interact with the protocol without intermediaries. Its non-custodial nature ensures users retain control over their assets, with immutable smart contracts minimizing governance risks and enhancing trustlessness.
+
+Flexible Infrastructure: The protocol is designed to be developer-friendly, allowing businesses and developers to create custom markets, curate vaults, and build applications tailored to specific use cases. Morpho’s infrastructure supports permissionless market creation and risk management, making it a versatile foundation for DeFi innovation.
+
+Morpho Blue and MetaMorpho: Morpho Blue is the protocol’s core lending layer, known for its simplicity and efficiency. It underwent rigorous formal verification to ensure security, with support from partners like Certora and a16z crypto. MetaMorpho complements this by enabling curated vaults, allowing users to tailor their risk-reward profiles by selecting from various markets and products.
+
+Cross-Chain Compatibility: Morpho has expanded its presence beyond Ethereum, integrating with platforms like TAC for Telegram users and Kadena’s Chainweb EVM. The recent launch of Morpho V2 introduced fixed-rate and fixed-term loans, market-driven pricing, and enhanced cross-chain functionality, bridging DeFi with traditional finance principles.
+
+Optimized Yields and Risk Management: Lenders can deposit assets into Morpho Vaults to earn optimized yields, while borrowers can access any asset directly from Morpho Markets. The protocol’s isolated lending markets offer higher collateralization factors, improved interest rates, and low gas consumption, making it cost-effective and efficient. Additionally, Morpho Labs’ acquisition of Warden Finance has bolstered its risk management tools, providing advanced analytics for users and vault curators.
+
+Morpho Labs: The Company Behind the ProtocolFounded as a research-driven entity, Morpho Labs is committed to making finance a public good through open-source development. Based in Paris, France, the company operates as a wholly owned subsidiary of the Morpho Association, a French nonprofit established to align incentives and reinvest protocol fees for growth. This structural realignment, completed in June 2025, underscores Morpho Labs’ dedication to decentralization and community-driven governance.
+
+Morpho Labs has raised significant funding, including a $1.35 million round co-led by Nascent and Semantic, supported by over 30 investors, including AngelDAO, Cherry Ventures, and Stake Capital. These funds have fueled the protocol’s development and expansion, enabling the team to scale operations and integrate with major DeFi platforms like Instadapp, DeFi Saver, and Summer.fi.
+
